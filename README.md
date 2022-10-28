@@ -1,5 +1,5 @@
 <h1 align="center"> Iniciando projeto React Native </h1>
-<img src='./src/assets/img/devtocruz.png'  align="center"/>
+<img src='./src/assets/img/devtocruz.png'  style="align-self: center;"/>
 
 - Criar Projeto
 
